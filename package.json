@@ -1,0 +1,27 @@
+{
+  "name": "js-utility",
+  "version": "1.0.0",
+  "description": "useful utility function for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammad-hormati/JS-UTILITY.git"
+  },
+  "keywords": [
+    "js",
+    "utility",
+    "function"
+  ],
+  "author": "mohammad-hormati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammad-hormati/JS-UTILITY/issues"
+  },
+  "homepage": "https://github.com/mohammad-hormati/JS-UTILITY#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
