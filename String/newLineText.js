@@ -1,0 +1,1 @@
+const newLineText = (text) => text.split('\n').map((str, idx) => <p key={idx}>{str}</p>)
